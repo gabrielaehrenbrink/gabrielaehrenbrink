@@ -38,4 +38,4 @@ I am a Makers Academy alumna with a strong ambition to thrive as a Full-Stack So
 ---
 
 
-Let's connect! Feel free to connect here or reach out to me on [LinkedIn]([https://www.linkedin.com/in/gabriela-ehrenbrink-a78226179/]) for further discussions, collaborations, or just to chat about our shared interests. Looking forward to connecting with you!
+Let's connect! Feel free to connect here or reach out to me on [LinkedIn](https://www.linkedin.com/in/gabriela-ehrenbrink-a78226179/) for further discussions, collaborations, or just to chat about our shared interests. Looking forward to connecting with you!
