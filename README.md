@@ -37,5 +37,7 @@ I am a Makers Academy alumna with a strong ambition to thrive as a Full-Stack So
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaehrenbrink&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazr/github-readme-stats)
+
 
 Let's connect! Feel free to connect here or reach out to me on [LinkedIn](https://www.linkedin.com/in/gabriela-ehrenbrink-a78226179/) for further discussions, collaborations, or just to chat about our shared interests. Looking forward to connecting with you!
